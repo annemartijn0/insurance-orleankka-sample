@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InsuranceAdministration": {
+      "commandName": "Project",
+      "commandLineArgs": "resume"
+    }
+  }
+}
